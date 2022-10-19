@@ -1,0 +1,6 @@
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\bin\Debug\WCounterLibrary.dll
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\bin\Debug\WCounterLibrary.pdb
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\obj\Debug\WCounterLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\obj\Debug\WCounterLibrary.dll
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\obj\Debug\WCounterLibrary.pdb
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterLibrary\obj\Debug\WCounterLibrary.csproj.AssemblyReference.cache
