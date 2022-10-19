@@ -1,0 +1,7 @@
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\bin\Debug\WCounterClient.exe.config
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\bin\Debug\WCounterClient.exe
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\bin\Debug\WCounterClient.pdb
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\obj\Debug\WCounterClient.csproj.AssemblyReference.cache
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\obj\Debug\WCounterClient.csproj.CoreCompileInputs.cache
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\obj\Debug\WCounterClient.exe
+C:\Users\tgolo\source\repos\Dimensionnnnn\Test-Task\WCounterService\WCounterClient\obj\Debug\WCounterClient.pdb
